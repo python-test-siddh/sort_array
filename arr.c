@@ -4,9 +4,9 @@
 // wrapper function for moku
 static PyObject *Moku(PyObject *self, PyObject *args) 
 {
-    PyObject *lst;
     
-    return (PyObject *lst);
+    
+    return 0;
 }
 
 // module's function table
