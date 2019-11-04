@@ -1,0 +1,2 @@
+import moku
+print(moku)
