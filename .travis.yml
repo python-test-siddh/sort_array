@@ -12,7 +12,7 @@ matrix:
 script:
 - python setup.py build
 - python setup.py install
-- python gampa.py
+- pip list
 
 
 
