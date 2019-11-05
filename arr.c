@@ -6,7 +6,7 @@ static PyObject *Moku(PyObject *self, PyObject *args)
 {
     
     
-    return 0;
+    return PyObject 0;
 }
 
 // module's function table
