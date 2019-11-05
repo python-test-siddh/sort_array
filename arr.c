@@ -6,7 +6,7 @@ static PyObject *Moku(PyObject *self, PyObject *args)
 {
     
     
-    return PyObject 0;
+    return Py_BuildValue("moku Loaded");
 }
 
 // module's function table
